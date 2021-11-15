@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/uz-pkpass/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/uz-pkpass/static/js/main.3dfa8ea0.chunk.js",
+    "main.js.map": "/uz-pkpass/static/js/main.3dfa8ea0.chunk.js.map",
+    "runtime-main.js": "/uz-pkpass/static/js/runtime-main.5c60c466.js",
+    "runtime-main.js.map": "/uz-pkpass/static/js/runtime-main.5c60c466.js.map",
+    "static/js/2.abd8c04c.chunk.js": "/uz-pkpass/static/js/2.abd8c04c.chunk.js",
+    "static/js/2.abd8c04c.chunk.js.map": "/uz-pkpass/static/js/2.abd8c04c.chunk.js.map",
+    "static/js/3.4f8e1590.chunk.js": "/uz-pkpass/static/js/3.4f8e1590.chunk.js",
+    "static/js/3.4f8e1590.chunk.js.map": "/uz-pkpass/static/js/3.4f8e1590.chunk.js.map",
+    "index.html": "/uz-pkpass/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/uz-pkpass/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.abd8c04c.chunk.js.LICENSE.txt": "/uz-pkpass/static/js/2.abd8c04c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/uz-pkpass/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c60c466.js",
+    "static/js/2.abd8c04c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3dfa8ea0.chunk.js"
+  ]
+}
